@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeshemaewe.dorvalfurnished.com/sitemap.xml
